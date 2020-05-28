@@ -1,5 +1,5 @@
 # Boilerplate app 
 
-## React, Webpack, Babel, TypeScript, ESlint, Prettier
+## React, TypeScript, Webpack, Babel, Jest, Enzyme, ESlint, Prettier
 
 MIT © [justinhessdev](https://github.com/justinhessdev)

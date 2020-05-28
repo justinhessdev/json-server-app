@@ -1,8 +1,8 @@
 {
-  "name": "j-components-react",
-  "version": "5.0.0",
-  "description": "Easy-to-use React component library tailored to the end user",
-  "repository": "justinhessdev/j-components-react",
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "React, TypeScript, Webpack, Babel, Jest, Enzyme, ESlint, Prettier",
+  "repository": "justinhessdev/boilerplate",
   "main": "dist/index.js",
   "scripts": {
     "bundle": "webpack",
