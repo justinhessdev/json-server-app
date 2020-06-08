@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "json-server-app",
   "version": "1.0.0",
   "description": "React, TypeScript, Webpack, Babel, Jest, Enzyme, ESlint, Prettier",
   "repository": "justinhessdev/boilerplate",
