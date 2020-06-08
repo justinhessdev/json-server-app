@@ -1,5 +1,3 @@
-# Boilerplate app 
-
-## React, TypeScript, Webpack, Babel, Jest, Enzyme, ESlint, Prettier
+# JSON Server app
 
 MIT © [justinhessdev](https://github.com/justinhessdev)

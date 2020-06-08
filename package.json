@@ -61,5 +61,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
